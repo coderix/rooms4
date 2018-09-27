@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "rooms4",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
